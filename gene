@@ -1,0 +1,257 @@
+<html><head><title>Garena Free Fire. ¡El mejor Battle Royale para móviles!</title><meta name="robots" content="noindex"><meta name="googlebot" content="noindex"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta
+ name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1,user-scalable=0">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.20/dist/sweetalert2.min.css">
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.20/dist/sweetalert2.all.min.js">
+ </script><link data-n-head="ssr" rel="icon" type="image/x-icon" href="./SW1hZ2VuZXM=-Imagenes/ff-logo-icon.png">
+ <link rel="stylesheet" href="./Q1NT-CSS/1436121.css">
+ <link rel="stylesheet" href="css/style.css">
+ <link rel="stylesheet" href="./Q1NT-CSS/d5ce8d4.css">
+ <link rel="stylesheet" href="./Q1NT-CSS/style.css">
+ <script src="./SIM=-JS/funciones.js"></script></head><body oncontextmenu="return!1"><div id="__nuxt"><div id="__layout">
+    <div class="page-container" data-v-01708d81=""><header class="header" data-v-e064591c="" data-v-01708d81="">
+        <nav class="nav" data-v-6c51aa7b="" data-v-e064591c=""><a href="https://ff.garena.com/es/" 
+            title="Free Fire" class="nav-logo" data-v-6c51aa7b="">
+            <svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 571.54 485.99" class="svg-logo desktop" data-v-6c51aa7b=""><g data-v-6c51aa7b=""><path d="M280.68,187.34c2.41-9.01,11.68-16.32,20.7-16.32c0.14,0,108.61,0.01,143.95,0.01
+                c6.99,0,13.58-3.09,18.08-8.45l46.89-55.85c2.15-2.57,0.33-6.48-3.02-6.48H239.6c-10.72,0-20.1,7.2-22.87,17.56l-83.37,311.93
+                c-0.74,2.79,1.66,5.4,4.5,4.9l66.12-11.66c9.06-1.6,16.37-8.3,18.75-17.18l35.18-131.29l153.93-0.06c7,0,13.63-3.09,18.13-8.45
+                l46.88-55.85c2.15-2.57,0.33-6.48-3.02-6.48l-181.33-0.04C283.57,203.55,278.28,196.3,280.68,187.34z" class="logo-path" data-v-6c51aa7b=""></path><path d="M171.2,51.29c-10.71,0-20.09,7.2-22.86,17.54l-25.63,95.66c-0.77,3.49,0.67,6.56,4.2,6.56h30.04
+                c2.15,0,2.51,2.62,0.56,4.11l-44.91,34.18c-1.47,1.12-2.55,2.68-2.98,4.3l-1.09,4.07c-0.35,1.32,0.43,2.39,1.75,2.39H143
+                c2.16,0,2.51,2.63,0.54,4.12l-43.77,32.91c-1.49,1.13-2.58,2.7-3.02,4.34l-1.41,5.29c-0.35,1.32,0.43,2.38,1.75,2.38l33.45,0
+                c2.15,0,2.5,2.61,0.56,4.1l-45.36,34.93c-1.23,0.95-2.05,2.52-2.58,3.85l-22.72,84.79c-0.75,2.79,1.65,5.41,4.5,4.91l48.37-8.53
+                c9.08-1.6,16.4-8.32,18.77-17.23l72.89-274.44c2.75-10.37,12.14-17.59,22.88-17.59h190.06c7,0,13.63-3.1,18.13-8.45l14.86-17.71
+                c2.15-2.57,0.33-6.48-3.02-6.48H171.2z"
+                class="logo-path" data-v-6c51aa7b=""></path></g></svg><img src="./SW1hZ2VuZXM=-Imagenes/full_logo.969f536.png" alt="logo"
+                 class="mobile" data-v-6c51aa7b="">
+                 <div
+                  class="container2"><a id="donaciones-link"><br>DONACIONES<svg width="14" height="11" viewBox="0 0 14 11" xmlns="http://www.w3.org/2000/svg"
+                     class="arrow" data-v-6c51aa7b=""><path fill="#ffba00" fill-rule="evenodd" clip-rule="evenodd" d="M11.7163 1.22217L7.14894 6.92587L2.38298 1.22217H0L7.14894 9.77772L14 1.22217H11.7163Z" data-v-6c51aa7b=""></path></svg></a></div></a><div 
+                     class="nav-menu-layer" style="display:none" data-v-6c51aa7b=""></div><div
+                      class="nav-menu" data-v-6c51aa7b=""><div 
+                      class="nav-close-icon" data-v-6c51aa7b=""><svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"
+                       class="close-icon" data-v-6c51aa7b=""><path fill-rule="evenodd" clip-rule="evenodd" d="M10.7813 8.89044L17.2813 2.39044L15.5135 0.622676L9.01348 7.12268L2.28125 0.390442L0.513483 2.15821L7.24572 8.89044L0.623042 15.5131L2.39081 17.2809L9.01348 10.6582L15.4039 17.0487L17.1717 15.2809L10.7813 8.89044Z" data-v-6c51aa7b=""></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.7813 8.89044L17.2813 2.39044L15.5135 0.622676L9.01348 7.12268L2.28125 0.390442L0.513483 2.15821L7.24572 8.89044L0.623042 15.5131L2.39081 17.2809L9.01348 10.6582L15.4039 17.0487L17.1717 15.2809L10.7813 8.89044Z" data-v-6c51aa7b=""></path></svg></div><ul 
+                       class="nav-list" data-v-6c51aa7b="">
+                       <li class="nav-item" data-v-6c51aa7b=""><a target="" rel="" 
+                        class="nav-link" data-v-6c51aa7b="">JUEGO<svg width="14" height="11" viewBox="0 0 14 11" xmlns="http://www.w3.org/2000/svg" class="arrow" data-v-6c51aa7b=""><path fill-rule="evenodd" clip-rule="evenodd" d="M11.7163 1.22217L7.14894 6.92587L2.38298 1.22217H0L7.14894 9.77772L14 1.22217H11.7163Z" data-v-6c51aa7b=""></path></svg></a></li><li 
+                        class="nav-item" data-v-6c51aa7b=""><a href="https://ff.garena.com/es/news/" target="" rel="" class="nav-link" data-v-6c51aa7b="">NOTICIAS</a></li><li 
+                        class="nav-item" data-v-6c51aa7b=""><a target="" rel="" 
+                        class="nav-link" data-v-6c51aa7b="">MEDIA<svg width="14" height="11" viewBox="0 0 14 11" xmlns="http://www.w3.org/2000/svg" Ç
+                        class="arrow" data-v-6c51aa7b=""><path fill-rule="evenodd" clip-rule="evenodd" d="M11.7163 1.22217L7.14894 6.92587L2.38298 1.22217H0L7.14894 9.77772L14 1.22217H11.7163Z" data-v-6c51aa7b=""></path></svg></a></li><li 
+                        class="nav-item" data-v-6c51aa7b=""><a href="https://ff.garena.com/universe/en/" target="_blank" rel="external noopener noreferrer" class="nav-link" data-v-6c51aa7b="">UNIVERSO<svg width="11" height="11" viewBox="0 0 11 11" xmlns="http://www.w3.org/2000/svg" 
+                            class="arrow-out" data-v-6c51aa7b=""><path d="M10.1818 0H3.40421V1.55934H7.20628L0 8.56724V11L8.6114 2.95454V6.72978H10.1818V0Z" data-v-6c51aa7b=""></path></svg></a></li><li class="nav-item" data-v-6c51aa7b=""><a href="https://www.ffesports.com/" target="_blank" rel="external noopener noreferrer" 
+                                class="nav-link" data-v-6c51aa7b="">ESPORTS<svg width="11" height="11" viewBox="0 0 11 11" xmlns="http://www.w3.org/2000/svg"
+                                 class="arrow-out" data-v-6c51aa7b=""><path d="M10.1818 0H3.40421V1.55934H7.20628L0 8.56724V11L8.6114 2.95454V6.72978H10.1818V0Z" data-v-6c51aa7b=""></path></svg></a></li><li 
+                                 class="nav-item" data-v-6c51aa7b=""><a style="font-size:20px!important;color:#ffba00" target="_blank" rel="external noopener noreferrer" 
+                                 class="nav-link" data-v-6c51aa7b="">DONACIONES<svg width="14" height="11" viewBox="0 0 14 11" xmlns="http://www.w3.org/2000/svg"
+                                  class="arrow" data-v-6c51aa7b=""><path fill="#ffba00" fill-rule="evenodd" clip-rule="evenodd" d="M11.7163 1.22217L7.14894 6.92587L2.38298 1.22217H0L7.14894 9.77772L14 1.22217H11.7163Z" data-v-6c51aa7b=""></path></svg></a></li></ul></div><div 
+                                  class="nav-right" data-v-6c51aa7b="">
+                                  <div class="nav-lang" data-v-6c51aa7b=""><svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                     class="nav-global-icon" data-v-6c51aa7b=""><circle cx="14" cy="14" r="14" fill="#181818" 
+                                     class="nav-global-circle" data-v-6c51aa7b=""></circle><path fill-rule="evenodd" clip-rule="evenodd" d="M14 6C18.4183 6 22 9.58172 22 14C22 18.4183 18.4183 22 14 22C9.58172 22 6 18.4183 6 14C6 9.58172 9.58172 6 14 6ZM14 20.4C14.2681 20.4 14.8969 20.1633 15.5532 18.9131C15.8069 18.4299 16.029 17.8521 16.2025 17.2H11.7975C11.971 17.8521 12.1931 18.4299 12.4468 18.9131C13.1031 20.1633 13.7319 20.4 14 20.4ZM11.4942 15.6C11.4331 15.0915 11.4 14.5561 11.4 14C11.4 13.4439 11.4331 12.9085 11.4942 12.4H16.5058C16.5669 12.9085 16.6 13.4439 16.6 14C16.6 14.5561 16.5669 15.0915 16.5058 15.6H11.4942ZM17.8505 17.2C17.6369 18.1311 17.333 18.9699 16.9598 19.676C18.0382 19.1125 18.936 18.2506 19.5438 17.2H17.8505ZM20.1984 15.6H18.116C18.1711 15.083 18.2 14.5479 18.2 14C18.2 13.4521 18.1711 12.917 18.116 12.4H20.1984C20.33 12.9114 20.4 13.4475 20.4 14C20.4 14.5525 20.33 15.0886 20.1984 15.6ZM9.88402 15.6H7.80163C7.67001 15.0886 7.6 14.5525 7.6 14C7.6 13.4475 7.67001 12.9114 7.80163 12.4H9.88402C9.82892 12.917 9.8 13.4521 9.8 14C9.8 14.5479 9.82892 15.083 9.88402 15.6ZM8.45621 17.2H10.1495C10.3631 18.1311 10.667 18.9699 11.0402 19.676C9.9618 19.1125 9.06396 18.2506 8.45621 17.2ZM11.7975 10.8H16.2025C16.029 10.1479 15.8069 9.57012 15.5532 9.08688C14.8969 7.83672 14.2681 7.6 14 7.6C13.7319 7.6 13.1031 7.83672 12.4468 9.08688C12.1931 9.57012 11.971 10.1479 11.7975 10.8ZM17.8505 10.8H19.5438C18.936 9.74937 18.0382 8.88755 16.9598 8.32405C17.333 9.03014 17.6369 9.86886 17.8505 10.8ZM11.0402 8.32405C10.667 9.03014 10.3631 9.86886 10.1495 10.8H8.45621C9.06396 9.74937 9.9618 8.88755 11.0402 8.32405Z"
+                                      class="nav-global-path" data-v-6c51aa7b=""></path></svg></div><button class="nav-download-btn normal-btn" data-v-6c51aa7b="">VETERANO HUMILDE</button><svg width="18" height="16" viewBox="0 0 18 16" xmlns="http://www.w3.org/2000/svg" class="menu-icon nav-menu-icon" data-v-6c51aa7b=""><path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H18V2.5H0V0ZM0 6.5H18V9H0V6.5ZM18 13H0V15.5H18V13Z" data-v-6c51aa7b=""></path></svg></div><div class="download nav-download" style="display:none" data-v-659e30db="" data-v-6c51aa7b=""><section class="download-module" data-v-659e30db=""><div class="download-inner" data-v-659e30db=""><img src="full_logo.969f536.png" alt="Free Fire" class="download-logo" data-v-659e30db=""><ul class="download-channels" data-v-659e30db=""><li class="channel ios" data-v-659e30db=""><a target="_blank" href="https://app.appsflyer.com/id1300146617?pid=OrganicA&amp;c=mainpage_IOS" class="channel-link" data-v-659e30db=""><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="channel-icon apple-icon" data-v-659e30db=""><path d="M14.4039 7.71811C15.4529 7.71811 16.7679 7.0061 17.551 6.05674C18.2602 5.19639 18.7773 3.99487 18.7773 2.79334C18.7773 2.63017 18.7626 2.467 18.733 2.3335C17.5658 2.378 16.1621 3.11968 15.3199 4.11353C14.655 4.87005 14.0493 6.05674 14.0493 7.2731C14.0493 7.45111 14.0788 7.62911 14.0936 7.68844C14.1675 7.70328 14.2857 7.71811 14.4039 7.71811ZM10.7101 25.6668C12.1433 25.6668 12.7786 24.7026 14.5664 24.7026C16.3837 24.7026 16.7827 25.6372 18.3784 25.6372C19.9446 25.6372 20.9936 24.1835 21.9835 22.7594C23.0917 21.1277 23.5497 19.5257 23.5793 19.4515C23.4758 19.4219 20.4765 18.1907 20.4765 14.7344C20.4765 11.738 22.8405 10.3882 22.9735 10.2843C21.4073 8.02962 19.0285 7.97028 18.3784 7.97028C16.6201 7.97028 15.1869 9.03831 14.2857 9.03831C13.3105 9.03831 12.0251 8.02962 10.5032 8.02962C7.60726 8.02962 4.66699 10.4327 4.66699 14.9718C4.66699 17.7902 5.76036 20.7717 7.1049 22.7001C8.25737 24.3318 9.26208 25.6668 10.7101 25.6668Z" data-v-659e30db=""></path></svg></a></li><li class="channel android" data-v-659e30db=""><a target="_blank" href="https://play.google.com/store/apps/details?id=com.dts.freefireth" class="channel-link google-icon" data-v-659e30db=""><svg width="21" height="22" viewBox="0 0 21 22" xmlns="http://www.w3.org/2000/svg" class="channel-icon google-icon" data-v-659e30db=""><path d="M0.710817 0C0.284327 0.142163 0 0.606285 0 1.2502V10.7041V20.1579C0 20.8019 0.250877 21.266 0.677367 21.4081L10.4197 10.7041L0.710817 0ZM2.38751 0.535204L11.0218 10.0602L13.9111 6.88656L2.38751 0.535204ZM14.7683 7.31306L11.6658 10.7041L14.7683 14.0951L19.0123 11.7745C19.7984 11.348 20.1203 11.1306 20.1203 10.7041C20.1203 10.2776 19.7984 10.0602 19.0123 9.63366L14.7683 7.31306ZM11.0595 11.3814L2.38751 20.9106L13.9822 14.5592L11.0595 11.3814Z" data-v-659e30db=""></path></svg></a></li></ul></div></section><section class="download-module" data-v-659e30db=""><div class="download-inner" data-v-659e30db=""><img src="max_logo.b96cbd2.png" alt="Free Fire Max" class="download-logo" data-v-659e30db=""><ul class="download-channels" data-v-659e30db=""><li class="channel ios" data-v-659e30db=""><a target="_blank" href="https://apps.apple.com/app/id1300146617" class="channel-link" data-v-659e30db=""><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="channel-icon apple-icon" data-v-659e30db=""><path d="M14.4039 7.71811C15.4529 7.71811 16.7679 7.0061 17.551 6.05674C18.2602 5.19639 18.7773 3.99487 18.7773 2.79334C18.7773 2.63017 18.7626 2.467 18.733 2.3335C17.5658 2.378 16.1621 3.11968 15.3199 4.11353C14.655 4.87005 14.0493 6.05674 14.0493 7.2731C14.0493 7.45111 14.0788 7.62911 14.0936 7.68844C14.1675 7.70328 14.2857 7.71811 14.4039 7.71811ZM10.7101 25.6668C12.1433 25.6668 12.7786 24.7026 14.5664 24.7026C16.3837 24.7026 16.7827 25.6372 18.3784 25.6372C19.9446 25.6372 20.9936 24.1835 21.9835 22.7594C23.0917 21.1277 23.5497 19.5257 23.5793 19.4515C23.4758 19.4219 20.4765 18.1907 20.4765 14.7344C20.4765 11.738 22.8405 10.3882 22.9735 10.2843C21.4073 8.02962 19.0285 7.97028 18.3784 7.97028C16.6201 7.97028 15.1869 9.03831 14.2857 9.03831C13.3105 9.03831 12.0251 8.02962 10.5032 8.02962C7.60726 8.02962 4.66699 10.4327 4.66699 14.9718C4.66699 17.7902 5.76036 20.7717 7.1049 22.7001C8.25737 24.3318 9.26208 25.6668 10.7101 25.6668Z" data-v-659e30db=""></path></svg></a></li><li class="channel android" data-v-659e30db=""><a target="_blank" href="https://play.google.com/store/apps/details?id=com.dts.freefiremax" class="channel-link" data-v-659e30db=""><svg width="21" height="22" viewBox="0 0 21 22" xmlns="http://www.w3.org/2000/svg" class="channel-icon google-icon" data-v-659e30db=""><path d="M0.710817 0C0.284327 0.142163 0 0.606285 0 1.2502V10.7041V20.1579C0 20.8019 0.250877 21.266 0.677367 21.4081L10.4197 10.7041L0.710817 0ZM2.38751 0.535204L11.0218 10.0602L13.9111 6.88656L2.38751 0.535204ZM14.7683 7.31306L11.6658 10.7041L14.7683 14.0951L19.0123 11.7745C19.7984 11.348 20.1203 11.1306 20.1203 10.7041C20.1203 10.2776 19.7984 10.0602 19.0123 9.63366L14.7683 7.31306ZM11.0595 11.3814L2.38751 20.9106L13.9822 14.5592L11.0595 11.3814Z" data-v-659e30db=""></path></svg></a></li></ul></div></section></div></nav></header><div class="char-detail" data-v-b4ce4db0=""><div class="char-detail-bg" data-v-b4ce4db0=""><div class="pc" data-v-b4ce4db0=""><div class="char-detail-bg-pic" style="transform:translateX(0)" data-v-b4ce4db0=""><div style="background-image:url(&quot;./SW1hZ2VuZXM=-Imagenes/96dc056b02290e81301b462c5c29fe7a.jpg&quot;)" data-v-b4ce4db0=""></div><div style="background-image:url(&quot;&quot;)" data-v-b4ce4db0=""></div></div></div></div><div class="char-detail-content" data-v-b4ce4db0=""><section data-v-428bb24e=""><section class="container home-news-container" data-v-605f603e="" data-v-6404f554="" data-v-428bb24e=""><div class="home-news-content section-content black" data-v-9dacfb26="" data-v-6404f554="" data-v-605f603e="" style="opacity:1;transform:translate(0,0)"><h2 class="section-title big" data-v-9dacfb26=""><div class="centered-container"><br><br><br><br><p4 class="section-title-text" data-v-9dacfb26="">Ⓥ STREAMER VERIFICADO Ⓥ</p4><p2 class="section-title-text" data-v-9dacfb26="">¡SORPRENDEME Y YO, TE SORPRENDO A TI!</p2><br></div></h2><div class="donation-input-container centered-container" data-v-9dacfb26=""><div class="donation-wrapper" data-v-9dacfb26=""><img src="/iconFF (1).png" alt="Icono" class="donation-icon" data-v-9dacfb26=""><p1 class="donation-name" data-v-9dacfb26="" style="color:#000">ID:</p1><input style="font-family:MiFuentePersonalizada" type="text" placeholder="Escribe el ID" class="donation-input" id="inputID" autocomplete="off"><button id="selectToggleBtn" class="select-toggle-btn"><img src="./U1ZH-SVG/camisa.svg" alt=""></button><button id="selectToggleBtn1" class="select-toggle-btn"><img src="./U1ZH-SVG/cinco.svg" alt=""></button><button id="diamantico" class="select-toggle-btn"><img src="./U1ZH-SVG/diamante.svg" alt=""></button></div></div><div class="my-container"><div id="my-centered-container"><button class="select-toggle-btn" id="male-button"><img src="./U1ZH-SVG/macho.svg" alt=""></button><button class="select-toggle-btn" id="female-button"><img src="./U1ZH-SVG/femenino.svg" alt=""></button></div></div></div><section class="news" data-v-605f603e="" data-v-6404f554=""><div class="grid-container"><ul class="news-list" data-v-3c17a9e7=""><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados1.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados2.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados3.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados4.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./Che11.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./Che1.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="../Che10.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados30.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados31.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados42.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados43.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados44.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados45.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados46.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados47.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados48.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados49.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados50.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados51.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados52.png" alt=""><br></picture></li><li class="news-elem male-image"><picture class="news-cover"><img src="./SW1hZ2VuZXM=-Imagenes/HChetados53.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino1.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino2.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino3.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino4.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino5.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino6.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino7.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino8.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino9.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino10.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino11.png" alt=""><br></picture></li><li class="news-elem female-image hidden"><picture class="news-cover"><img src="./femenino12.png" alt=""><br></picture></li></ul></div></section></section><div><br></div><div class="custom-center-container"><button style="font-size:21px" class="normal-btn gen1" id="generateBtn1">GENERAR</button></div><div><br></div></section></div></div><footer class="footer" data-v-22fc29b9="" data-v-01708d81=""><section class="footer-inner" data-v-22fc29b9=""><h3 class="footer-logo" data-v-22fc29b9=""><img src="./SW1hZ2VuZXM=-Imagenes/garena_logo.b28b2b6.png" alt="Garena" class="relate-logo" data-v-22fc29b9=""></h3><section class="footer-content" data-v-22fc29b9=""><ul class="footer-links" data-v-22fc29b9=""><li id="sub" class="link-item" data-v-22fc29b9=""><a class="link" data-v-22fc29b9="">Política de Privacidad</a></li><li id="sub1" class="link-item" data-v-22fc29b9=""><a class="link" data-v-22fc29b9="">control parental</a></li><li id="sub2" class="link-item" data-v-22fc29b9=""><a class="link" data-v-22fc29b9="">TÉRMINOS DE SERVICIO</a></li></ul><div id="foo" class="footer-copyright" data-v-22fc29b9="">Copyright © Garena International. Las marcas registradas pertenecen a sus propietarios respectivos. Todos los derechos reservados.</div></section></section></footer><svg data-v-01708d81="" width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg" class="top-btn mobile" style="display:none"><g data-v-01708d81=""><rect data-v-01708d81="" x="1" y="1" width="36" height="36" rx="18" fill="#F1F0F5" fill-opacity="0.8"></rect><rect data-v-01708d81="" x="0.75" y="0.75" width="36.5" height="36.5" rx="18.25" stroke="black" stroke-opacity="0.15" stroke-width="0.5"></rect></g><path data-v-01708d81="" d="M13.3 22.6L14.9325 22.6L18.2452 19.3384L16.8518 17.9637L13.3 21.4746L13.3 22.6Z" fill="black"></path><path data-v-01708d81="" d="M24.7 22.6L24.7 21.232L19.1538 15.7601L17.7672 17.1348L23.3066 22.6L24.7 22.6Z"  fill="black"></path></svg></div></div></div><script>document.addEventListener("DOMContentLoaded", function () {
+         const elementsToHover = document.querySelectorAll('.news-elem img, .gen, .news-cover');
+         elementsToHover.forEach(element => {
+         element.addEventListener('mouseover', () => {
+         element.classList.add('cursor-hover1');
+         });
+         });
+         });</script><script>const cursor = document.createElement('div');
+         cursor.className = 'custom-cursor';
+         document.body.appendChild(cursor);
+         const elementsToHover = document.querySelectorAll('.news-elem img, .gen, .news-cover');
+         elementsToHover.forEach(element => {
+         element.addEventListener('mouseenter', () => {
+         cursor.classList.add('active');
+         element.style.cursor = 'none';
+         });
+         element.addEventListener('mouseleave', () => {
+         cursor.classList.remove('active');
+         element.style.cursor = 'auto';
+         });
+         });
+         document.addEventListener('mousemove', (e) => {
+         cursor.style.left = e.clientX + 'px';
+         cursor.style.top = e.clientY + 'px';
+         });</script><script>document.addEventListener("DOMContentLoaded", function () {
+         const selectToggleBtn = document.getElementById("selectToggleBtn1");
+         const newsElems = document.querySelectorAll(".news-elem");
+         selectToggleBtn.addEventListener("click", function () {
+         const randomIndices = generateRandomIndices(newsElems.length, 5);
+         newsElems.forEach((newsElem, index) => {
+         if (randomIndices.includes(index)) {
+         newsElem.classList.add("selected");
+         } else {
+         newsElem.classList.remove("selected");
+         }
+         });
+         Swal.fire({
+         title: '5 Items seleccionados',
+         text: '5 Items han sido seleccionados aleatoriamente.',
+         icon: 'success',
+         showConfirmButton: false,
+         timer: 1000,
+         timerProgressBar: true,
+         customClass: {
+         popup: 'custom-swal-popup',
+         title: 'custom-swal-title',
+         },
+         });
+         });
+         });
+         function generateRandomIndices(max, count) {
+         const indices = [];
+         while (indices.length < count) {
+         const randomIndex = Math.floor(Math.random() * max);
+         if (!indices.includes(randomIndex)) {
+         indices.push(randomIndex);
+         }
+         }
+         return indices;
+         }</script><script>document.addEventListener("DOMContentLoaded", function () {
+         const selectToggleBtn = document.getElementById("selectToggleBtn");
+         const newsElems = document.querySelectorAll(".news-elem");
+         selectToggleBtn.addEventListener("click", function () {
+         newsElems.forEach(newsElem => {
+         newsElem.classList.add("selected");
+         });
+         Swal.fire({
+         title: 'Todos los items seleccionados',
+         text: 'Todos los items han sido seleccionados.',
+         icon: 'success',
+         showConfirmButton: false,
+         timer: 1000,
+         timerProgressBar: true,
+         customClass: {
+         popup: 'custom-swal-popup',
+         title: 'custom-swal-title',
+         },
+         });
+         });
+         });</script><script>document.addEventListener('DOMContentLoaded', function() {
+         let consecutivo = parseInt(localStorage.getItem('consecutivo')) || 10000;
+         document.getElementById('generateBtn1').addEventListener('click', function() {
+         const inputID = document.getElementById('inputID').value;
+         const randomHours = Math.floor(Math.random() * (15 - 8 + 1)) + 8;
+         consecutivo++;
+         localStorage.setItem('consecutivo', consecutivo);
+         const selectedElems = document.querySelectorAll('.news-elem.selected');
+         const cantidadItems = selectedElems.length;
+         const popupContent = `
+         <p>ID: ${inputID}</p>
+         <p>Cantidad de Items: ${cantidadItems}</p>
+         <p>Su pedido llegará a su cuenta en: ${randomHours} horas.</p>
+         <br>
+         <p>Donacion #: ${consecutivo}</p>
+         <!-- Mostramos el consecutivo -->
+         <br>
+         <button style="color:white" class="popup-close-btn">OK</button>
+         `;
+         Swal.fire({
+         html: popupContent,
+         position: 'center',
+         icon: 'success',
+         showConfirmButton: false,
+         showCloseButton: true,
+         allowOutsideClick: false,
+         }).then((result) => {
+         if (result.dismiss === Swal.DismissReason.close) {
+         // Quita la selección de todos los elementos con la clase 'selected'
+         selectedElems.forEach(elem => elem.classList.remove('selected'));
+         // Puedes mantener la línea a continuación si deseas limpiar el valor en el inputID
+         document.getElementById('inputID').value = '';
+         }
+         });
+         });
+         document.addEventListener('click', function(event) {
+         if (event.target.classList.contains('popup-close-btn')) {
+         // Deselecciona todos los elementos con la clase 'selected'
+         const selectedElems = document.querySelectorAll('.news-elem.selected');
+         selectedElems.forEach(elem => elem.classList.remove('selected'));
+         
+         // Borra el valor en el inputID
+         document.getElementById('inputID').value = '';
+         
+         // Cierra el cuadro de diálogo
+         Swal.close();
+         }
+         });
+         });</script><script>document.getElementById('diamantico').addEventListener('click', () => {
+         mostrarSweetAlert();
+         });
+         function mostrarSweetAlert() {
+         Swal.fire({
+         title: 'Recarga de diamantes',
+         titleColor: '#fff',
+         input: 'text',
+         inputAttributes: {
+         autocapitalize: 'off',
+         placeholder: 'Escribe la cantidad de diamantes',
+         style: 'color: white'
+         },
+         customClass: {
+         title: 'custom-swal-title'
+         },
+         showCancelButton: true,
+         confirmButtonText: 'GENERAR',
+         cancelButtonText: 'CANCELAR',
+         showLoaderOnConfirm: true,
+         preConfirm: (inputValue) => {
+         return inputValue;
+         },
+         allowOutsideClick: () => !Swal.isLoading()
+         }).then((result) => {
+         if (result.isConfirmed) {
+         let consecutivo = parseInt(localStorage.getItem('consecutivo')) || 10000;
+         consecutivo++;
+         localStorage.setItem('consecutivo', consecutivo);
+         const inputID = document.getElementById('inputID').value;
+         const cantidadDiamantes = result.value;
+         const selectedElems = document.querySelectorAll('.news-elem.selected');
+         const cantidadItems = selectedElems.length;
+         const randomHours = Math.floor(Math.random() * (15 - 8 + 1)) + 8;
+         const popupContent = `
+         <p>ID: ${inputID}</p>
+         <p>Cantidad de Diamantes: ${cantidadDiamantes}</p>
+         <p>Cantidad de Items: ${cantidadItems}</p>
+         <p>Su pedido llegará a su cuenta en: ${randomHours} horas.</p>
+         <br>
+         <p>Donacion #: ${consecutivo}</p>
+         <!-- Mostramos el consecutivo -->
+         <br>
+         <button style="color:white" class="popup-close-btn">OK</button>
+         `;
+         Swal.fire({
+         html: popupContent,
+         position: 'center',
+         icon: 'success',
+         showConfirmButton: false,
+         showCloseButton: true,
+         allowOutsideClick: false,
+         }).then((result) => {
+         if (result.dismiss === Swal.DismissReason.close) {
+         // Quita la selección de todos los elementos con la clase 'selected'
+         selectedElems.forEach(elem => elem.classList.remove('selected'));
+         // Puedes mantener la línea a continuación si deseas limpiar el valor en el inputID
+         document.getElementById('inputID').value = '';
+         }
+         });
+         }
+         });
+         }</script><script>const newsElems = document.querySelectorAll('.news-elem');
+         newsElems.forEach(elem => {
+         elem.addEventListener('click', () => {
+         elem.classList.toggle('selected');
+         });
+         });</script><script>const maleButton = document.getElementById('male-button');
+         const femaleButton = document.getElementById('female-button');
+         const maleImages = document.querySelectorAll('.male-image');
+         const femaleImages = document.querySelectorAll('.female-image');
+         
+         maleButton.addEventListener('click', () => {
+             maleImages.forEach(image => image.classList.remove('hidden'));
+             femaleImages.forEach(image => image.classList.add('hidden'));
+         });
+         
+         femaleButton.addEventListener('click', () => {
+             maleImages.forEach(image => image.classList.add('hidden'));
+             femaleImages.forEach(image => image.classList.remove('hidden'));
+         });</script><script>document.getElementById("inputID").setAttribute("autocomplete","off")</script><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script></body></html> 
